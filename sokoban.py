@@ -879,9 +879,9 @@ def fval_function(sN, weight):
 
 # "#" is a wall,
 # " " is a free space,
-# "$" is a box,
+# "*" is a box,
 # "." is a goal place,
-# "*" is a boxes placed on a goal,
+# "$" is a boxes placed on a goal,
 # "?" is for Sokoban and
 # "$" is for Sokoban on a goal.
 
